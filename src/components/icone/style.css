@@ -1,0 +1,9 @@
+.icons {
+    display: flex;
+    align-items: center;
+}
+  
+.icons li {
+    margin-right: 30px;
+    width: 25px;
+}
